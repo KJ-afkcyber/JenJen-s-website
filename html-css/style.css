@@ -1,0 +1,25 @@
+h1{background-color:rgb(218, 202, 141);
+text-align: center;
+border:36px ;
+border-style:groove;
+border-color:rgb(241, 125, 82);
+color:rgba(95, 51, 19, 0.856);}
+p{font-weight:bolder;
+font-size: x-large;
+font-style:oblique;
+color:rgba(74, 74, 189, 0.753);
+}
+ol{color:rgba(74, 74, 189, 0.753);
+    font-weight:bolder;
+    font-size: x-large;
+    font-style:oblique;}
+
+ ul{ font-weight:bolder;
+    font-size: xx-large;
+    font-style:oblique;
+    color:rgba(107, 11, 11, 0.856);}   
+
+.fun{color:rgba(107, 11, 11, 0.856);} 
+
+
+
